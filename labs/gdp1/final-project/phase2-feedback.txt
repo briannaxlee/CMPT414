@@ -1,0 +1,13 @@
+ilearn flagged submission as late. This one time only I grant a penalty-free grace.
+
+Delivered as specified: 8/10
+1. No, I want to see the Pycharm project. Did you see the Deliverables section?
+No compiler errors or warnings: 0/10
+1. No, project was not delivered as specified, no animations, sounds, etc. just a .py file in the .zip.
+Good programming style 10/10
+1. Run the code through http://pep8online.com/
+Playability at minimum 50% complete: 55/70
+1. Animate the enemies as they descend.
+2. Add a mother ship like Space Invaders -- it moves horizontally acorss the top of the world periodically but randomly.
+
+Total: 83/100

@@ -1,0 +1,11 @@
+In order to run the file:
+Please run the file menu.py to launch the game.
+
+Known issues:
+So far in the game, the only issues that I have come into so far have to be with the animation of the enemies. There was something about the original design
+of the sprites the didn't really work with animating it where it made sense. Any other image that I came across for the aliens didn't fit the aesthetic of
+the background or 8-bit design. The one issue I continued to have was when the player is done with the game, there should be a way for the player to indicate
+if they wanted to play another round. In order to do so, I oringally wanted to make sure that the player is routed back to the menu so they can play again,
+but my thought process for doing so was to have a delay after the text display of the player's game status so that it would automatically go back to the menu.
+However, when I implemented the pygame.time.delay, the explosion would freeze on the screeen and it would never print "Game Over" or "You Win" so I decided to
+drop it until I could figure out a way for the explosion not to freeze. However, I never came across the solution, so it has not been implemented into the game.

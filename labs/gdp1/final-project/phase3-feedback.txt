@@ -1,0 +1,7 @@
+1. Attendance: 3/3 days => 20/20
+2. Conformance with these specs 30/30
+    1. The video >64 MB -- try to find a way to reduce the size without reducing the recording time, if possible.
+3. Evidence of effort by working code, completeness, technique, artistry, etc. 43/50
+    1. This is pretty good.
+    2. Animate those enemies. -5
+    3. Add a mothership of something extra for the player to aim for. Take a look at the original Space Invaders to see what I mean. -2
